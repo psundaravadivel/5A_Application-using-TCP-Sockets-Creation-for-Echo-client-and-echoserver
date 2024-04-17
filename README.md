@@ -1,6 +1,6 @@
 # 5A_Application using TCP Sockets Creation for Echo client and echoserver
 ## AIM :
-To write a PYTHON program for socket for TCP for web page upload and download
+To write a PYTHON program for TCP Sockets Creation for Echo client and echoserver
 ## Algorithm
 
 1.Start the program.
@@ -18,4 +18,4 @@ To write a PYTHON program for socket for TCP for web page upload and download
 ## Program 
 ## OUTPUT
 ## Result
-Thus the socket for FTP for web page upload and download created and Executed
+Thus the socket for TCP Sockets Creation for Echo client and echoserver
