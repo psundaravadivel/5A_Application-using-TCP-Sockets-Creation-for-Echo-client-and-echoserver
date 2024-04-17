@@ -1,4 +1,4 @@
-# 5B_Application using TCP Sockets Creation for Echo client and echoserver
+# 5A_Application using TCP Sockets Creation for Echo client and echoserver
 ## AIM :
 To write a PYTHON program for socket for TCP for web page upload and download
 ## Algorithm
